@@ -1,0 +1,23 @@
+[
+    {
+        "name": "RTX 3060",
+        "cudaCores" : "3584 Cuda Cores",
+        "coreClock" : "1320 MHZ",
+        "Memory Speed" : "15Gbps",
+        "rayTracing" : "yes"
+    },
+    {
+        "name": "RTX 3070",
+        "cudaCores" : "5888 Cuda Cores",
+        "coreClock" : "1500 MHZ",
+        "Memory Speed" : "14Gbps",
+        "rayTracing" : "yes"
+    },
+    {
+        "name": "RTX 3080",
+        "cudaCores" : "8704 Cuda Cores",
+        "coreClock" : "1440 MHZ",
+        "Memory Speed" : "19Gbps",
+        "rayTracing" : "yes"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "name": "RTX 2060",
+        "cudaCores" : "1920",
+        "coreClock" : "1365 MHZ",
+        "Memory Speed" : "14Gbps",
+        "rayTracing" : "yes"
+    },
+    {
+        "name": "RTX 2070",
+        "cudaCores" : "2304",
+        "coreClock" : "1410 MHZ",
+        "Memory Speed" : "14Gbps",
+        "rayTracing" : "yes"
+    },
+    {
+        "name": "RTX 2080",
+        "cudaCores" : "3072",
+        "coreClock" : "1515 MHZ",
+        "Memory Speed" : "14Gbps",
+        "rayTracing" : "yes"
+    }
+]
